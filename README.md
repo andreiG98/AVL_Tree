@@ -1,7 +1,7 @@
 # AVL_Tree
-O aplicatie ce construieste un arbore binar de cautare echilibrat AVL cu operatiile de baza:
--insert
--print
--delete
--find
--maxim
+An application that builds a balanced AVL binary search tree with basic operations: </br>
+-insert </br>
+-print </br>
+-delete </br>
+-find </br>
+-maxim </br>
